@@ -8,6 +8,6 @@
     "learning_rate": 2e-05
   },
   "performance": {
-    "final_validation_accuracy": 0.8233333333333334
+    "final_validation_accuracy": 0.79
   }
 }
