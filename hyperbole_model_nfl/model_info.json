@@ -3,11 +3,11 @@
   "base_model": "bert-base-uncased",
   "num_labels": 2,
   "training_params": {
-    "num_epochs": 3,
+    "num_epochs": 5,
     "batch_size": 16,
     "learning_rate": 2e-05
   },
   "performance": {
-    "final_validation_accuracy": 0.79
+    "final_validation_accuracy": 0.8
   }
 }
